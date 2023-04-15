@@ -25,14 +25,14 @@
 >>>
 
 # 代码
-''' c
+... c
 #include<stdio.h>
 int main(void)
 {
 	printf("hello");
 	return 0;
 }
-'''
+...
 # 超链接
 [github网址](http://github.com "跳转到github") 
 
