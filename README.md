@@ -4,9 +4,11 @@
 #### 四
 ##### 五
 
-*斜体*
-**粗体**
-***粗斜体***
+*斜体*  
+
+**粗体**<br>
+***粗斜体***\
+
 `重点`
 ~删除线~
 
@@ -20,19 +22,19 @@
 ..1 asd
 
 # 引用
->
->>
->>>
+> aaa
+>> bbb
+>>> ccc
 
 # 代码
-... c
+```c
 #include<stdio.h>
 int main(void)
 {
 	printf("hello");
 	return 0;
 }
-...
+```
 # 超链接
 [github网址](http://github.com "跳转到github") 
 
